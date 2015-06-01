@@ -4,6 +4,8 @@
     "version": "0.0.0",
     "private": true,
     "dependencies": {
-        "underscore": "1.8.1"
+        "underscore": "1.8.1",
+        "air": "https://github.com/dehru/air.git#0.0.2",
+        "water": "https://github.com/dehru/elements.git#0.0.1"
     }
 }
